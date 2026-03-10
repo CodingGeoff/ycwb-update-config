@@ -1,0 +1,6 @@
+{
+    "latest_version": "1.0.0",
+    "release_notes": "【羊晚项目语料库】\n\n核心功能：\n1. 无损解析 Word 批注 - 智能提取批注内容、原文术语、批注人身份及图片\n2. 智能身份识别 - 根据文件名和批注频率自动识别\"译员 审校 PM\"三种角色\n3. 全文检索知识库 - SQLite FTS5 高性能中英文模糊搜索，支持角色筛选\n4. NLP 智能推荐 - TF-IDF 算法提取团队高频核心术语\n5. OCR 智能视图 - 原文丢失时通过批注图片 OCR 逆推定位原文段落\n6. 相似批注合并 - 序列比对算法自动合并相似度>85%的重复批注\n7. 图文一键复制 - 支持纯文本/富图文两种格式，兼容 Word、微信、飞书\n8. Word 文件查重 - SHA-256 哈希查重，智能分类重复文件",
+    "download_url": "https://my.feishu.cn/file/NL2Tbx3yzoyiD0xyuUkcc9SMn0c",
+    "force_update": false
+}
